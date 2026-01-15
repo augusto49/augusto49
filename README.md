@@ -106,7 +106,7 @@
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg">
+  <img align="center" alt="pacman contribution graph" src="pacman-contribution-graph.svg">
 </picture>
