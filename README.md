@@ -97,17 +97,16 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=augusto49&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00bfbf&text_color=FFF&border_radius=3&border_color=00bfbf&icon_color=00bfbf&theme=tokyonight" alt="GitHub stats">
-
-  <a href="https://github.com/augusto49">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto49&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=00bfbf&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=00bfbf" alt="Most Used Languages">
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=augusto49&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  </p>
 </div>
 
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=augusto49&bg_color=000&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=augusto49&bg_color=FFF&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true">
-  <img align="center" alt="github contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=augusto49&bg_color=000&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/augusto49/augusto49/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/augusto49/augusto49/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/augusto49/augusto49/output/github-contribution-grid-snake.svg">
 </picture>
