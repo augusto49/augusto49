@@ -89,7 +89,7 @@
 
 <div align="center">
   <a href="https://github.com/augusto49">
-    <img src="https://streak-stats.demolab.com?user=augusto49&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=augusto49&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
