@@ -8,11 +8,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="280" hspace="30" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<div align="justify">
-  Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
-</div>
+Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
+
+<br clear="all" />
 
 <br/>
 
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=getx&logoColor=white" alt="GetX" />
 </div>
 
 ### 🌐 Frontend
