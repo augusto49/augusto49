@@ -45,14 +45,20 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=augusto49&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Augusto Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto49&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/augusto49">
+    <img height="180em" src="https://github-readme-stats-augusto49.vercel.app/api?username=augusto49&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Augusto Ferreira github stats" />
+  </a>
+  <a href="https://github.com/augusto49">
+    <img height="180em" src="https://github-readme-stats-augusto49.vercel.app/api/top-langs/?username=augusto49&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augusto49&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+  <a href="https://github.com/augusto49">
+    <img src="https://streak-stats.demolab.com?user=augusto49&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
@@ -60,7 +66,9 @@
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augusto49&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/augusto49">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augusto49&theme=tokyonight" alt="Contribution Graph" />
+  </a>
 </div>
 
 <br/>
