@@ -12,6 +12,20 @@
 
 Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
 
+<br/>
+
+### Connect with me!
+
+<a href="mailto:ferreiraaugusto918@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/augusto-ferreira-76810b190/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/augusto49" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 <br clear="all" />
 
 <br/>
@@ -97,20 +111,6 @@ Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência 
 </div>
 
 <br/>
-
-## 📫 Onde me encontrar
-
-<div align="center"> 
-  <a href="https://github.com/augusto49" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/augusto-ferreira-76810b190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ferreiraaugusto918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
 
 <br/>
 
