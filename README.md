@@ -5,13 +5,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Augusto+Ferreira" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=45&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=Augusto+Ferreira" alt="Augusto Ferreira" />
+</div>
+
+<div align="center">
+  <marquee direction="right" scrollamount="7" width="60%">
+    <img src="https://raw.githubusercontent.com/gist/joshpeng/9d4a34723c34796075G4/raw/black-cat.gif" height="40" />
+  </marquee>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="45" />
 </div>
 
 #
 
 <p align="center">
-  Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
+  Sou desenvolvedor Full Stack, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
 </p>
   
 #
