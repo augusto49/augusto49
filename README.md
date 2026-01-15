@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="src/header.svg" width="100%" alt="Augusto Ferreira Header">
+</p>
+
 <div align="center">
-  <img src="src/banner.svg" width="100%" alt="Banner Animado Augusto Ferreira" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Augusto+Ferreira" />
 </div>
 
 #
