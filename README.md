@@ -1,15 +1,11 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Augusto+Ferreira!" alt="Typing SVG" /></a>
-      <br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Augusto+Ferreira" alt="Typing SVG" /></a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="src/cat.gif" width="150" alt="Coding Cat" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="src/cat-transparent.gif" align="right" width="150" alt="Coding Cat">
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Augusto+Ferreira!" alt="Typing SVG" /></a>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Augusto+Ferreira" alt="Typing SVG" /></a>
+  </div>
+</div>
 
 #
 
