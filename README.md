@@ -98,8 +98,8 @@
   <h3>* GitHub Stats *</h3>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=augusto49&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=augusto49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&align=center" alt="Top Langs" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=augusto49&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augusto49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&align=center" alt="Top Langs" />
   </p>
 </div>
 
