@@ -97,10 +97,16 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=augusto49&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augusto49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&align=center" alt="Top Langs" />
-  </p>
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=augusto49&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augusto49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 #
