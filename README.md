@@ -1,12 +1,15 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Augusto+Ferreira!;Desenvolvedor+Full+Stack+Mobile+%26+Web!;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o!" alt="Typing SVG">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Augusto+Ferreira" />
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Augusto+Ferreira!" alt="Typing SVG" /></a>
+      <br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00BFBFFF&center=true&vCenter=true&width=435&lines=Augusto+Ferreira" alt="Typing SVG" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="src/cat.gif" width="150" alt="Coding Cat" />
+    </td>
+  </tr>
+</table>
 
 #
 
