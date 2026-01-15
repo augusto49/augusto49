@@ -2,23 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Augusto+Ferreira!;Desenvolvedor+Full+Stack!" />
 </h1>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack com ênfase em Mobile</h3>
+<h3 align="center">🚀 Desenvolvedor Full Stack!</h3>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h2>👨‍💻 Sobre Mim</h2>
-      <p>
-        Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 Sobre Mim
+
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+Sou desenvolvedor Full Stack com ênfase em Mobile, com 3+ anos de experiência prática em Flutter/Dart e projetos web, atuando também com React Native, Next.js e backend com Python/Django e Node.js. Tenho vivência em projetos completos, desde o desenvolvimento até o deploy, incluindo publicação nas lojas (Play Store e App Store), consumo de APIs REST e GraphQL, versionamento com Git, integração com Firebase e uso de bancos relacionais.
+
+<br/>
 
 ## 🛠️ Tecnologias & Ferramentas
 
