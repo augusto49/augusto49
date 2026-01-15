@@ -76,17 +76,21 @@
 
 <br/>
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=augusto49&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Augusto Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto49&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/augusto49">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=augusto49&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augusto49&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augusto49&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+  <a href="https://github.com/augusto49">
+    <img src="https://streak-stats.demolab.com?user=augusto49&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
@@ -105,10 +109,10 @@
   <a href="https://github.com/augusto49" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/augusto49" target="_blank">
+  <a href="https://www.linkedin.com/in/augusto-ferreira-76810b190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:ferreiraaugusto918@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
