@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=45&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=Augusto+Ferreira" alt="Augusto Ferreira" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=45&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&width=700&lines=Augusto+Ferreira" alt="Augusto Ferreira" />
 </div>
 
 <div align="center">
   <marquee direction="right" scrollamount="7" width="60%">
     <img src="https://raw.githubusercontent.com/gist/joshpeng/9d4a34723c34796075G4/raw/black-cat.gif" height="40" />
   </marquee>
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="45" />
+  <img src="https://media.tenor.com/ImagS83rP1IAAAAi/cat-sleeping.gif" height="50" />
 </div>
 
 #
