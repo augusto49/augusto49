@@ -33,4 +33,4 @@ def remove_watermark(input_path, output_path, crop_pixels=30):
         print("Done!")
 
 if __name__ == "__main__":
-    remove_watermark("src/cat-transparent.gif", "src/gato.gif", 120)
+    remove_watermark("src/cat-transparent.gif", "src/gato.gif", 115)
