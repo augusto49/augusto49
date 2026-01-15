@@ -23,6 +23,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Move to root
+        run: |
+          if [ -d "dist" ]; then
+            mv dist/* .
+            rm -rf dist
+          fi
+
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
