@@ -25,10 +25,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Move to root
+      - name: Move to src
         run: |
+          mkdir -p src
           if [ -d "dist" ]; then
-            mv dist/* .
+            mv dist/* src/
             rm -rf dist
           fi
 
