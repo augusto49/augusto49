@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="src/cat-transparent.gif" width="200" />
+  <img src="src/cat-transparent.gif" width="150" />
 </p>
 
 #
